@@ -1,3 +1,0 @@
-id,eventName,sport,fee,isTeamSport,duration,startDate,endDate,totalSlots,tournamentType,isRegistrationOpen,createdBy
-193,"asd","sad",1111.00,false,"3 Days","2026-04-14","2026-04-16",11,"",true,"Admin"
-225,"baddies gonna play badminton","Badminton",100.00,true,"","2026-04-16","2026-04-30",16,"Round Robin",true,"Admin"
